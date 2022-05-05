@@ -13,4 +13,5 @@
 |회귀|-|-|-|xgboost|-|-|
 |회귀|-|USAHousing|-|-||[ipynb](./codes/Regression/LinearRegressionWithUSAHousing.ipynb)|
 |회귀|-|EcommerceCustomers|-|-||[ipynb](./codes/Regression/LinearRegressionWithEcommerceCustomers.ipynb)|
+|?|How to Find the Most Attractive Stocks Now?-Data Analysis with Python|-|-|-|[other uri](https://medium.com/@koki_noda/how-to-find-the-most-attractive-stocks-now-8b2a40597345)|-|
 |분류|-|-|-|-|-|-|
